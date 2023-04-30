@@ -32,4 +32,7 @@ export default function Titulo(props) {
       <h4>{props.grazi}</h4>
     </>
   )
+  /*
+    As props são somente leitura, não gerencia dados
+  */
 }
